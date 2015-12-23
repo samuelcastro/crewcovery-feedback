@@ -22,8 +22,8 @@
           <label for="description">Your Feedback</label>
           <textarea class="form-control" minlength="10" name="description" id="description" data-ng-model="feedBackController.newFeedback.info" placeholder="Feedback" required></textarea>
           <span id="helpBlock" class="help-block has-error" ng-show="form.description.$invalid && (form.$submitted || !form.description.$pristine)">
-            <span ng-show="form.description.$error.minlength">Description must be at least 10 words!</span>
-            <span ng-show="form.description.$error.required">Description is required!</span>
+            <span ng-show="form.description.$error.minlength">Feedback must be at least 10 words!</span>
+            <span ng-show="form.description.$error.required">Feedback is required!</span>
           </span>
         </div>
         <button type="submit" class="btn btn-success" ng-disabled="form.$invalid"><i class="fa fa-plus"></i> {{ feedBackController.newFeedback._id ? 'Update' : 'Add' }} Feedback</button>
