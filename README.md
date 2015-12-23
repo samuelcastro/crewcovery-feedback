@@ -8,6 +8,8 @@ A small project to send feedback based on AngularJS Full-Stack generator
 
 ![Feedback](http://samuelcastro.me/crewcovery-3.png "The Feedback Screen")
 
+![Validation](http://samuelcastro.me/crewcovery-4.png "The Feedback Screen")
+
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.1.1.
 
 ## Getting Started
