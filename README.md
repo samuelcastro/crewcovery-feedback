@@ -27,7 +27,7 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 
 ## Build & development
 
-Run `grunt serve` for preview the app.
+Run `grunt build` for building and `grunt serve` for preview.
 
 ## Testing
 
