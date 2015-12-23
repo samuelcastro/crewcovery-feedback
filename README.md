@@ -4,9 +4,9 @@ A small project to send feedback based on AngularJS Full-Stack generator
 
 ## Preview
 
-![Home](https://www.dropbox.com/s/2jf8x4w5ryot1rq/crewcovery-2.png "The Home Screen")
+![Home](http://samuelcastro.me/crewcovery-2.png "The Home Screen")
 
-![Feedback](https://www.dropbox.com/s/r62u072gqpb3kol/crewcovery-3.png "The Feedback Screen")
+![Feedback](http://samuelcastro.me/crewcovery-3.png "The Feedback Screen")
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.1.1.
 
